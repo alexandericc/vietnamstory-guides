@@ -18,12 +18,6 @@
   "summary": "A six-day Vietnam itinerary detailing sightseeing routes, cruises, and practical policies across Hanoi, Ninh Binh, Lan Ha Bay, Da Nang, and Hoi An."
  },
  {
-  "path": "guides/highlights-of-vietnam-and-cambodia-trip-for-family/",
-  "title": "Highlights of Vietnam and Cambodia Trip For Family",
-  "job_id": "VNS-008",
-  "summary": "A twelve-day family itinerary detailing cultural sights and historic landmarks across Vietnam and Cambodia from Hanoi to Siem Reap."
- },
- {
   "path": "guides/luxury-tour-grandeur-getaway-discovery-12-days-of-refined-indulgence/",
   "title": "Luxury Tour Grandeur Getaway Discovery – 12 Days Of Refined Indulgence",
   "job_id": "VNS-007",
@@ -46,5 +40,11 @@
   "title": "South And Central Vietnam in 6 Days 5 Nights",
   "job_id": "VNS-006",
   "summary": "A six-day Vietnam itinerary for Indian travellers covering Ho Chi Minh City, Cu Chi Tunnels, the Mekong Delta, Da Nang, Ba Na Hills, and historic Hoi An."
+ },
+ {
+  "path": "guides/highlights-of-vietnam-and-cambodia-trip-for-family/",
+  "title": "Highlights of Vietnam and Cambodia Trip For Family",
+  "job_id": "VNS-008",
+  "summary": "A twelve-day family itinerary detailing cultural sights and historic landmarks across Vietnam and Cambodia from Hanoi to Siem Reap."
  }
 ]
