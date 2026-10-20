@@ -18,12 +18,6 @@
   "summary": "A six-day Vietnam itinerary detailing sightseeing routes, cruises, and practical policies across Hanoi, Ninh Binh, Lan Ha Bay, Da Nang, and Hoi An."
  },
  {
-  "path": "guides/enchanting-center-package-4-days-3-nights/",
-  "title": "Enchanting Center Package 4 Days 3 Nights",
-  "job_id": "VNS-004",
-  "summary": "A 4-day Central Vietnam itinerary covering Da Nang, Hoi An Ancient Town, Ba Na Hills, and Cham Island with transport, meals, and guided day excursions."
- },
- {
   "path": "guides/south-and-central-vietnam-in-6-days-5-nights/",
   "title": "South And Central Vietnam in 6 Days 5 Nights",
   "job_id": "VNS-006",
@@ -46,5 +40,11 @@
   "title": "Fantastic Vietnam From North To South With Beach Break",
   "job_id": "VNS-009",
   "summary": "Discover the magic of Vietnam in just 11 days! From bustling Ho Chi Minh City, with its historic landmarks and vibrant markets, to the serene beaches of Phu Quoc Island and the stunning beauty of Ha Long Bay, this tour will immerse you in the heart of Vietnam. Explore the Mekong Delta, experience local life and traditions, and discover the “Halong Bay on Land” in Ninh Binh. Plan your trip at https://vietnamstory.in/"
+ },
+ {
+  "path": "guides/enchanting-center-package-4-days-3-nights/",
+  "title": "Enchanting Center Package 4 Days 3 Nights",
+  "job_id": "VNS-004",
+  "summary": "A 4-day Central Vietnam itinerary covering Da Nang, Hoi An Ancient Town, Ba Na Hills, and Cham Island with transport, meals, and guided day excursions."
  }
 ]
